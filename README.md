@@ -1,4 +1,4 @@
-# open-port-firewall-win
+# port-rule-firewall-windows
 
 ### OPEN
 
